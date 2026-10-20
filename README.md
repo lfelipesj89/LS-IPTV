@@ -1,3 +1,11 @@
+# LS-IPTV
+
+Proyecto basado en IPTV-SV, desarrollado por JMigue85.
+Esta versión contiene modificaciones y personalizaciones propias para organizar y administrar listas IPTV.
+Licencia: GNU General Public License v3.0 (GPL-3.0).
+Se conservan los avisos de derechos de autor y la licencia del proyecto original.
+
+
 # IPTV-SV | Lista Gratis IPTV M3U Curada para El Salvador principalmente, Latinoamérica y España
 
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
