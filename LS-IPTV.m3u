@@ -12,6 +12,9 @@ http://181.225.190.242:8000/play/a02o
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",RCN2 HD [Opc.2]
 http://152.231.29.139:8000/play/a0jw/index.m3u8
 
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es",RCN Novelas
+http://181.78.79.131:8000/play/a0sk
+
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD [Opc.1]
 http://181.225.190.242:8000/play/a00p
 
@@ -48,6 +51,18 @@ http://181.225.190.242:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Colombia", Canal Institucional [Opc.2]
 http://152.231.29.139:8000/play/a0fp/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1280px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", Canal Uno HD [Opc.1]
+http://181.78.79.131:8000/play/a1s2
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1280px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", Canal Uno SD [Opc.2]
+http://181.225.190.242:8000/play/a00n
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/500px-Cable_Noticias_logo.svg.png" group-title="Colombia", Cable Noticias HD
+http://38.134.250.110:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Canal_Congreso_de_Colombia_logo.png" group-title="Colombia", Canal Congreso SD
+http://181.78.79.131:8000/play/a0se
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+ HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
@@ -71,6 +86,9 @@ http://181.78.79.131:8000/play/a1lb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/su7Y5bC.png" group-title="Colombia", Telecaribe SD [Opc.2]
 http://181.225.190.242:8000/play/a034
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia", Televid HD
+http://181.225.190.242:8000/play/a03d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Colombia", Canal TRO [Opc.1]
 http://181.225.190.242:8000/play/a00m
@@ -99,7 +117,7 @@ http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [Opc.3]
 http://181.79.87.130:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD 
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (URESTV)
@@ -117,11 +135,17 @@ http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC HD
 http://181.225.190.242:8000/play/a010
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Envio SD [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC SD [Opc.1]
 http://181.79.86.130:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Envio SD [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC SD [Opc.2]
 http://138.94.3.106:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="Colombia", City TV SD [Opc.1]
+http://181.78.79.131:8000/play/a0si
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="Colombia", City TV SD [Opc.2]
+http://181.119.84.106:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo HD
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
@@ -275,6 +299,7 @@ http://181.119.84.106:8000/play/a0qw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.3]
 http://152.231.29.139:8000/play/a0cv/index.m3u8
+
 
 
 
