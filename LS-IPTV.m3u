@@ -165,138 +165,139 @@ http://181.78.211.244:8005/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN FHD
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD
-http://181.225.190.242:8000/play/a01l
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD (Op. 2)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD [Opc.1]
 http://181.119.84.106:8000/play/a0ng/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD (Op. 3)
-http://38.187.7.252:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN
-http://181.78.79.131:8000/play/a0s7
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN (Op. 2)
-http://181.79.87.130:8000/play/a02i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN (Op. 3)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD [Opc.2]
 http://38.134.250.110:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN (Op. 4)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD [Opc.3]
+http://181.78.14.26:4000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD [Opc.4]
+http://190.117.20.37:8000/play/a0ii/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN HD [Opc.5]
+http://181.225.190.242:8000/play/a01l
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN SD [Opc.1]
+http://179.51.136.19:8000/play/a1rv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN SD [Opc.2]
+http://181.78.79.131:8000/play/a0s7
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN SD [Opc.3]
 http://157.100.9.51:8000/play/a1qf
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN (Op. 5)
-http://179.51.136.19:8000/play/a1rv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN SD [Opc.4]
+http://181.79.87.130:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN SD [Opc.5]
+http://152.231.29.139:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 FHD
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD
-http://181.225.190.242:8000/play/a01m
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD (Op. 2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.1]
 http://181.78.79.131:8000/play/a0qj
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD (Op. 3)
-http://38.187.7.252:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.2]
+http://181.119.84.106:8000/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.3]
+http://181.225.190.242:8000/play/a01m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 FHD
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD
-http://181.225.190.242:8000/play/a01n
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD (Op.2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.1]
 http://181.78.79.131:8000/play/a0s6
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD (Op.3)
-http://38.187.7.252:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.2]
+http://181.119.84.106:8000/play/a0ta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.3]
+http://181.225.190.242:8000/play/a01n
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 FHD
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD
-http://181.225.190.242:8000/play/a01o
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD (Op.2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.1]
 http://181.78.79.131:8000/play/a0s9
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD (Op. 3)
-http://38.187.7.252:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.2]
+http://181.119.84.106:8000/play/a0gy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.3]
+http://181.225.190.242:8000/play/a01o
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 FHD
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD
-http://181.225.190.242:8000/play/a01p
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD (Op.2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.1]
 http://181.78.79.131:8000/play/a0s5
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD (Op.3)
-http://38.187.7.252:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.2]
+http://181.119.84.106:8000/play/a0t4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.3]
+http://181.225.190.242:8000/play/a01p
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 FHD
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD
-http://181.225.190.242:8000/play/a01q
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD (Op.2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.1]
 http://181.78.79.131:8000/play/a0s3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD (Op.3)
-http://38.187.7.252:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.2]
+http://181.119.84.106:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.3]
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK"(op. 2),COL | ESPN7 FHD
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD
-http://181.225.190.242:8000/play/a01r
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD (Op.2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.1]
 http://181.78.79.131:8000/play/a0s8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD (Op.3)
-http://38.187.7.252:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.2]
+http://181.119.84.106:8000/play/a0hx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.3]
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.1]
+http://181.78.79.131:8000/play/a0r2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.2]
 http://181.119.84.106:8000/play/a0qw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN Premium HD (op. 2)
-http://38.187.7.252:8000/play/a06e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN Premium HD (op. 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.3]
 http://152.231.29.139:8000/play/a0cv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",CHI | ESPN HD
-http://152.231.29.139:8000/play/a0e7/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ HD [Opc.1]
 http://181.78.79.131:8000/play/a0m1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ HD (Op. 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ HD [Opc.2]
 http://181.79.87.130:8000/play/a0eu/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ SD [Opc.3]
 http://152.231.29.139:8000/play/a0je/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS HD [Opc.1]
 http://181.225.190.242:8000/play/a03r
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS SD [Opc.2]
 http://157.100.9.51:8000/play/a1us
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS (Op. 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS SD [Opc.3]
 http://181.119.84.106:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS (Op. 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS SD [Opc.4]
 http://181.79.87.130:8000/play/a02x/index.m3u8
 
 
@@ -307,13 +308,13 @@ http://181.79.87.130:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS HD
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.1]
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS (Op. 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.2]
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS (Op. 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.3]
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS2 HD
