@@ -184,8 +184,6 @@ http://181.78.211.244:8005/play/a06w/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN FHD
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
@@ -231,6 +229,24 @@ http://181.119.84.106:8000/play/a0og/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.3]
 http://181.225.190.242:8000/play/a01m
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.4]
+http://179.51.136.19:8000/play/a1md/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.5]
+http://152.231.29.139:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 HD [Opc.6]
+http://181.79.87.130:8000/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 SD [Opc.1]
+http://157.100.9.51:8000/play/a1wf
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 SD [Opc.2]
+http://181.79.87.130:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN2 SD [Opc.3]
+http://181.79.87.130:8000/play/a0ch/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 FHD
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 
@@ -242,6 +258,24 @@ http://181.119.84.106:8000/play/a0ta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.3]
 http://181.225.190.242:8000/play/a01n
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.4]
+http://179.51.136.19:8000/play/a1lh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.5]
+http://157.100.9.51:8000/play/a1s1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.6]
+http://181.79.87.130:8000/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 HD [Opc.7]
+http://152.231.29.139:8000/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 SD [Opc.1]
+http://157.100.9.51:8000/play/a1v0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN3 SD [Opc.2]
+http://181.79.87.130:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 FHD
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
@@ -255,6 +289,21 @@ http://181.119.84.106:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.3]
 http://181.225.190.242:8000/play/a01o
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.4]
+http://179.51.136.19:8000/play/a1t9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.5]
+http://179.51.136.19:8000/play/a1kr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.6]
+http://157.100.9.51:8000/play/a1sk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.7]
+http://181.79.87.130:8000/play/a0b3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",COL | ESPN4 HD [Opc.8]
+http://152.231.29.139:8000/play/a0dd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 FHD
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 
@@ -266,6 +315,21 @@ http://181.119.84.106:8000/play/a0t4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.3]
 http://181.225.190.242:8000/play/a01p
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.4]
+http://179.51.136.19:8000/play/a1l9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.5]
+http://157.100.9.51:8000/play/a1ro
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.6]
+http://181.79.87.130:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 HD [Opc.7]
+http://152.231.29.139:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN5 SD [Opc.1]
+http://181.79.87.130:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 FHD
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
@@ -279,6 +343,30 @@ http://181.119.84.106:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.3]
 http://181.225.190.242:8000/play/a01q
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.4]
+http://179.51.136.19:8000/play/a1l3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.5]
+http://157.100.9.51:8000/play/a1rh
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 HD [Opc.6]
+http://152.231.29.139:8000/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.1]
+http://179.51.136.19:8000/play/a1p6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.2]
+http://179.51.136.19:8000/play/a15j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.3]
+http://157.100.9.51:8000/play/a1rx
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.4]
+http://181.79.87.130:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.5]
+http://181.79.87.130:8000/play/a0eh/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK"(op. 2),COL | ESPN7 FHD
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
@@ -291,6 +379,27 @@ http://181.119.84.106:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.3]
 http://181.225.190.242:8000/play/a01r
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.4]
+http://179.51.136.19:8000/play/a1t2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.5]
+http://179.51.136.19:8000/play/a1kj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.6]
+http://157.100.9.51:8000/play/a1sd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.7]
+http://181.79.87.130:8000/play/a0aw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.8]
+http://152.231.29.139:8000/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 SD [Opc.1]
+http://157.100.9.51:8000/play/a1wo
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 SD [Opc.2]
+http://181.79.87.130:8000/play/a01k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.1]
 http://181.78.79.131:8000/play/a0r2
 
@@ -300,7 +409,17 @@ http://181.119.84.106:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.3]
 http://152.231.29.139:8000/play/a0cv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.4]
+http://179.51.136.19:8000/play/a1ml/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.5]
+http://179.51.136.19:8000/play/a1nz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium HD [Opc.6]
+http://157.100.9.51:8000/play/a1tb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium SD [Opc.1]
+http://181.79.87.130:8000/play/a0d1/index.m3u8
 
 
 
@@ -324,8 +443,6 @@ http://181.119.84.106:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS SD [Opc.4]
 http://181.79.87.130:8000/play/a02x/index.m3u8
-
-
 
 
 
