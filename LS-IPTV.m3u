@@ -367,7 +367,7 @@ http://181.79.87.130:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN6 SD [Opc.5]
 http://181.79.87.130:8000/play/a0eh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK"(op. 2),COL | ESPN7 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 FHD
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN7 HD [Opc.1]
@@ -420,6 +420,74 @@ http://157.100.9.51:8000/play/a1tb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",LAT | ESPN Premium SD [Opc.1]
 http://181.79.87.130:8000/play/a0d1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",MEX | ESPN HD [Opc.1]
+http://190.61.101.11:7050/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",MEX | ESPN SD [Opc.1]
+http://179.51.136.19:8000/play/a0ws/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",MEX | ESPN2 HD [Opc.1]
+http://190.61.101.11:7050/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",MEX | ESPN2 SD [Opc.1]
+http://179.51.136.19:8000/play/a0wt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN LATAM",MEX | ESPN3 HD [Opc.1]
+http://190.61.101.11:7050/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN LATAM",MEX | ESPN3 SD [Opc.1]
+http://179.51.136.19:8000/play/a14i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN LATAM",MEX | ESPN4 HD [Opc.1]
+http://190.61.101.11:7050/play/a08p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN LATAM",MEX | ESPN5 HD [Opc.1]
+http://179.51.136.19:8000/play/a1l9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN LATAM",MEX | ESPN6 HD [Opc.1]
+http://190.61.101.11:7050/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN LATAM",MEX | ESPN6 HD [Opc.2]
+http://179.51.136.19:8000/play/a1l3/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",CHI | ESPN HD [Opc.1]
+http://205.235.6.29:8000/play/a0zf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",CHI | ESPN HD [Opc.2]
+http://179.51.136.19:8000/play/a1mi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",CHI | ESPN HD [Opc.3]
+http://179.51.136.19:8000/play/a1nw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",CHI | ESPN2 HD [Opc.1]
+http://205.235.6.29:8000/play/a11i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",CHI | ESPN2 HD [Opc.2]
+http://179.51.136.19:8000/play/a1md/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN LATAM",CHI | ESPN3 HD [Opc.1]
+http://179.51.136.19:8000/play/a1lh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN LATAM",CHI | ESPN4 HD [Opc.1]
+http://205.235.6.29:8000/play/a11h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN LATAM",CHI | ESPN4 HD [Opc.2]
+http://179.51.136.19:8000/play/a1kr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN LATAM",CHI | ESPN5 HD [Opc.1]
+http://179.51.136.19:8000/play/a192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN LATAM",CHI | ESPN5 HD [Opc.2]
+http://179.51.136.19:8000/play/a15h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN LATAM",CHI | ESPN7 HD [Opc.1]
+http://205.235.6.29:8000/play/a0zv/index.m3u8
+
 
 
 
