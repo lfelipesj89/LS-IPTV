@@ -514,21 +514,23 @@ http://181.79.87.130:8000/play/a02x/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS HD [Opc.1]
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMS-byxUSKjuSWuq7RAR-7rM/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS HD [Opc.2]
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.1]
-http://38.187.7.252:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.2]
-http://45.186.254.75:8000/play/a0en/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",ARG | DSPORTS [Opc.3]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS SD [Opc.1]
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS2 HD [Opc.1]
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMc3d8kRyC_ddZs3HaLK839Q/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS2 HD [Opc.2]
 https://s2.bufaloweb.com/bufalo10/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS+ HD [Opc.1]
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQroGw55eTiQTNR5dybuUzA/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS+ HD [Opc.2]
 https://s2.bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
