@@ -509,6 +509,15 @@ http://179.51.136.19:8000/play/a15h/index.m3u8
 http://205.235.6.29:8000/play/a0zv/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",USA | ESPN US
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",US | ESPN2 US HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/ESPNU_%28Horizontal%29.svg" group-title="ESPN LATAM",USA | ESPN-U US
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="WIN SPORTS",COL | WIN SPORTS+ HD [Opc.1]
