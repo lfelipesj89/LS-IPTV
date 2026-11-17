@@ -564,3 +564,92 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQroGw55eTiQTNR5dybu
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSPORTS",COL | DSPORTS+ HD [Opc.2]
 https://s2.bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Atlanta Hawks
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155936
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Boston Celtics
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155937
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Brooklyn Nets
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155938
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Charlotte Hornets
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155939
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Chicago Bulls
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155940
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Cleveland Cavaliers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155941
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Dallas Maverics
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155942
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Denver Nuggets
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155943
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Detroit Pistons
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155944
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Golden State Warriors
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155945
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Houston Rockets
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155946
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Indiana Pacers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155947
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Los Angeles Clippers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155948
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Los Angeles Lakers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155949
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Memphis Grizzlies
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155950
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Miami Hit
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155951
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Milwaukee Bucks
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155952
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Minnesota Timberwolves
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155953
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA New Orleans Pelicans
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155954
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA New York Knicks
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155955
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Oklahoma City Thunder
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155956
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Orlando Magic
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155957
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Philadelphia 76ers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155958
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Phoenix Suns
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155959
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Portland Trail Blazers
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155960
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Sacramento Kings
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155961
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Toronto Raptors
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155962
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Utah Jazz
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155963
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA",US | NBA Washington Wizzards
+http://31.43.191.125:8080/VIP01872171716680682/7a24dc94eb20/155964
