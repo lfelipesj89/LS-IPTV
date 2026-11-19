@@ -1,6 +1,6 @@
 # 📡 Reporte de estado de canales
 
-**Última verificación:** 2026-11-18 18:57:53 UTC
+**Última verificación:** 2026-11-19 07:13:09 UTC
 
 > ⚠️ **Nota importante:** este reporte se genera automáticamente desde servidores de GitHub Actions (ubicados en EE.UU./Europa). Un canal puede aparecer como caído sin estarlo realmente para el usuario final, por:
 >
@@ -14,11 +14,11 @@
 
 | Total canales | ✅ OK | ❌ Caídos/Error |
 |---|---|---|
-| 2202 | 1766 | 436 |
+| 2202 | 1739 | 463 |
 
 ## ../IPTVSV.m3u
 
-**Total:** 1871 &nbsp;|&nbsp; **OK:** 1452 &nbsp;|&nbsp; **Caídos:** 419
+**Total:** 1871 &nbsp;|&nbsp; **OK:** 1425 &nbsp;|&nbsp; **Caídos:** 446
 
 <details>
 <summary><strong>Anime</strong> (19 caídos)</summary>
@@ -29,21 +29,21 @@
 | TALTAL TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TALTAL TV 2 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Anime Station (América Latina) [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Canal Locomotion - Segunda señal [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Canal Locomotion - Segunda señal [Opc.2][No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Anime Presente | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Zyoon TV HD (Chile) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Anime Presente | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal Locomotion - Segunda señal [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Zyoon TV SD (Chile) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| TV Grupo Medios Mendoza Anime | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Dragon Ball / Dragon Ball Z (América Latina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Dragon Ball Super (América Latina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| TV Grupo Medios Mendoza Anime | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Macross TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Death Note - Elfen Lied | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Naruto (Peliculas) (América Latina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Dragon Ball Peliculas (América Latina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Naruto (Peliculas) (América Latina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Death Note - Elfen Lied | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Canal Locomotion - Primera señal [No 24/7] | 🔴 HTTP 404 |
 | Canal Locomotion - Primera señal [Opc.2][No 24/7] | 🔴 HTTP 404 |
 | AnimeZone TV [No 24/7](América Latina) | 🔴 CONTENIDO INVÁLIDO (responde 200 pero el contenido no parece un manifiesto M3U válido) |
-| Dragon Ball Super (América Latina) | 🔴 HTTP 502 |
 
 </details>
 
@@ -52,17 +52,17 @@
 
 | Canal | Motivo |
 |---|---|
-| Telefe Salta HD [No 24/7] (Argentina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Tele Posadas [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | El Nueve HD [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
-| Telefe HD | 🟡 *(posible falso positivo)* HTTP 403 |
 | Telefe Interior HD [No 24/7] | 🔴 HTTP 400 |
+| Telefe HD | 🟡 *(posible falso positivo)* HTTP 403 |
 | Telefe Tucuman HD [No 24/7] (Argentina) | 🟡 *(posible falso positivo)* HTTP 403 |
 | Canal 9 Tele Vida Mendoza HD [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
-| Telefe Rosario HD [No 24/7] (Argentina) | 🔴 TIMEOUT (no respondió a tiempo) |
 | Ciudad Magazine SD (Buenos Aires) [No 24/7] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked] | 🟡 *(posible falso positivo)* TIMEOUT (no respondió a tiempo) |
+| Canal 21 Posadas (Misiones) | 🔴 HTTP 404 |
 | Canal 9 Tele Vida Mendoza SD [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Telefe Rosario HD [No 24/7] (Argentina) | 🔴 TIMEOUT (no respondió a tiempo) |
 | CineAR [Geo-Blocked] | 🟡 *(posible falso positivo)* TIMEOUT (no respondió a tiempo) |
 
 </details>
@@ -74,102 +74,104 @@
 |---|---|
 | SPC Canal 15 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Mix Bolivia TVE [No 24.7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Mix Bolivia SD [No 24.7][Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | GoGoPlay Max [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Canal 24 Multivision [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Mix Bolivia HD [No 24.7][Opc.3] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Red Chuquisaqueña | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | GoGoPlay TVE [no 24/7][Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| GoGoPlay SD [no 24/7][Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal 24 Multivision [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Red Chuquisaqueña | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Bolivisión LPZ (La Paz) | 🔴 HTTP 404 |
 | GigaVision (Santa Cruz) [No 24/7] | 🔴 HTTP 404 |
-| Mix Bolivia SD [No 24.7][Opc.2] | 🔴 HTTP 502 |
-| GoGoPlay SD [no 24/7][Opc.2] | 🔴 HTTP 502 |
 
 </details>
 
 <details>
-<summary><strong>Chile</strong> (5 caídos)</summary>
+<summary><strong>Chile</strong> (6 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | ChileVisión HD (Geo-Blocked)[Opc.2] | 🟡 *(posible falso positivo)* HTTP 403 |
 | ChileVisión Deportes (Nacional) [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
-| La Red HD (Nacional)[Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 (con SSL inválido) |
 | La Red SD (Nacional)[Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
+| ClickTV [No24/7](Coronel - Biobío) [Opc.2] | 🔴 HTTP 404 |
 | TVN HD (Nacional) [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 (con SSL inválido) |
+| La Red HD (Nacional)[Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 (con SSL inválido) |
 
 </details>
 
 <details>
-<summary><strong>Cine / Películas</strong> (34 caídos)</summary>
+<summary><strong>Cine / Películas</strong> (32 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
+| Ipersonica | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Xiomoz | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Sistema 1 TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | MAXC TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| MAXC Family TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| TV Clasicos | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | MAXC Comedy TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Tele Clásicos | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| TV Clasicos | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | MAX2 TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Universo TV MTV 93.1 (Argentina) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Tele Clásicos | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| MAXC Family TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Cine de Terror Español | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TerrorTV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Fabian Vision [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| MCU TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TeleCine TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TV Retro Palmares [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Opinión Sur Cine [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| WOW Movies SD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | WOW Movies [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Canal 69 TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| WOW Movies SD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Pantalla Clásica [No 24/7] (Ecuador) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Cine53 [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Mittos TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Alternativa TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | El 70 TV [No 24/7](Rep. Dominicana) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| FMTV Mundo (Cadena Internacional) | 🔴 HTTP 404 |
-| Ipersonica | 🔴 HTTP 502 |
+| PRITV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal 69 TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Cine53 [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Retrox TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | GAMTV.cr (Costa Rica) | 🟡 *(posible falso positivo)* HTTP 403 |
 | Metro TV [No 24/7][Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Box Cinema | 🔴 CONTENIDO INVÁLIDO (responde 200 pero el cuerpo llegó vacío) |
-| MAXTV Movies [No 24/7] | 🔴 HTTP 404 |
 | Metro TV [No 24/7][Opc.3] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Xiomoz | 🔴 HTTP 502 |
+| Box Cinema | 🔴 CONTENIDO INVÁLIDO (responde 200 pero el cuerpo llegó vacío) |
 | Atacama TV [Not 24/7] (Copiapó - Atacama) | 🔴 HTTP 404 |
-| Sistema 1 TV | 🔴 HTTP 502 |
-| Fabian Vision [No 24/7] | 🔴 HTTP 502 |
-| MCU TV [No 24/7] | 🔴 HTTP 502 |
-| Mittos TV [No 24/7] | 🔴 HTTP 502 |
-| Alternativa TV [No 24/7] | 🔴 HTTP 502 |
-| PRITV [No 24/7] | 🔴 HTTP 502 |
-| Retrox TV [No 24/7] | 🔴 HTTP 502 |
 
 </details>
 
 <details>
-<summary><strong>Cine / Películas Premium</strong> (19 caídos)</summary>
+<summary><strong>Cine / Películas Premium</strong> (22 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | HBO POP HD (Opc.3) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Universal Crime HD [Opc.2] | 🔴 HTTP 404 |
 | TNT HD | 🔴 HTTP 404 |
+| TNT HD (Opc.3) | 🔴 HTTP 404 |
 | HBO2 HD [Opc.1] | 🔴 HTTP 404 |
 | Cinecanal HD (Opc.2) | 🔴 HTTP 404 |
+| FMH Family [Opc.2] | 🔴 HTTP 404 |
 | Warner Channel HD (Opc.1) | 🔴 TIMEOUT (no respondió a tiempo) |
 | Cine Latino SD (Opc.1) | 🔴 HTTP 404 |
-| FMH Family [Opc.2] | 🔴 HTTP 404 |
 | Golden HD (Opc.2) | 🔴 HTTP 404 |
-| Golden EDGE HD | 🔴 HTTP 404 |
 | CINE MEXICANO [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | ComedyMax | 🔴 TIMEOUT (no respondió a tiempo) |
-| Golden EDGE HD (Opc.2) | 🔴 HTTP 404 |
+| Golden EDGE HD | 🔴 HTTP 404 |
 | CINE MEXICANO [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Golden EDGE HD (Opc.2) | 🔴 HTTP 404 |
 | Multipremier SD [Opc.3] | 🔴 HTTP 404 |
-| Space HD (Opc.2) | 🔴 HTTP 404 |
 | Bolliwood TV | 🔴 TIMEOUT (no respondió a tiempo) |
-| Universal TV SD[Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Cine Latino SD (Opc.3) | 🔴 TIMEOUT (no respondió a tiempo) |
-| CINE MEXICANO | 🔴 TIMEOUT (no respondió a tiempo) |
+| Space HD (Opc.2) | 🔴 HTTP 404 |
+| Universal Cinema HD [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
+| HBO HD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Cine Premium HD (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
+| De Película HD [Opc.1] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Colombia</strong> (9 caídos)</summary>
+<summary><strong>Colombia</strong> (10 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -177,16 +179,17 @@
 | Canal PyC HD (Ibagué) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Teleantioquia HD (Antioquia / Regional) [Opc.3] | 🔴 HTTP 404 |
 | TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander) | 🔴 CONTENIDO INVÁLIDO (responde 200 pero Content-Type es 'text/html' (no es video)) |
-| Canal Capital [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca) | 🔴 HTTP 404 |
 | HOGAR TV | 🔴 HTTP 404 |
 | Ultra Casanare TV HD [No 24/7] (Casanare) | 🔴 HTTP 404 |
+| Canal Capital [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
 | CNC Santander de Quilichao SD (Cauca) | 🔴 TIMEOUT (no respondió a tiempo) |
 | CNC Santander de Quilichao SD (Cauca)[Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Costa Rica</strong> (11 caídos)</summary>
+<summary><strong>Costa Rica</strong> (9 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -196,11 +199,9 @@
 | Canal 11 Repretel HD (Nacional)[Geo-Blocked][Opc.1] | 🟡 *(posible falso positivo)* ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Canal 10 HD (Nacional) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Super Canal [Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Conexion Positiva Television | 🔴 HTTP 404 |
-| Super Canal | 🔴 HTTP 404 |
-| TELETICA 7 HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| Canal 11 Repretel SD (Nacional)[Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
-| MultiCanal | 🔴 TIMEOUT (no respondió a tiempo) |
+| MultiCanal[Opc.2] | 🔴 HTTP 404 |
+| TV Sur Canal 14 HD (Pérez Zeledón) | 🔴 HTTP 404 |
+| Super Canal | 🟡 *(posible falso positivo)* HTTP 403 |
 
 </details>
 
@@ -224,10 +225,12 @@
 
 | Canal | Motivo |
 |---|---|
-| Claro Sports (México) | 🔴 HTTP 404 |
-| Nitro HD Eventos Deportivos [No 24/7] | 🔴 HTTP 404 |
 | CazéTV (BR) [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Nitro HD Eventos Deportivos [No 24/7] | 🔴 HTTP 404 |
+| Claro Sports (México) | 🔴 HTTP 404 |
 | Multivisión Sports -Clasicos- (Guatemala) [No 24/7] | 🔴 HTTP 500 |
+| beIN Sports (ES)[Opc.2] | 🔴 HTTP 404 |
+| TyC Sports [Opc.3] | 🔴 HTTP 404 |
 | UFC (EE.UU.) [EN][Opc.2] | 🔴 HTTP 404 |
 | TyC Sports AR | 🟡 *(posible falso positivo)* HTTP 403 |
 | Eventos Deportivos HD V1 [No 24/7] | 🔴 TIMEOUT (no respondió a tiempo) |
@@ -237,13 +240,11 @@
 | Eventos PRO HD  [No 24/7] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Eventos PRO HD 2  [No 24/7] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Eventos PRO HD 3  [No 24/7] | 🔴 TIMEOUT (no respondió a tiempo) |
-| FUTV (Costa Rica) | 🔴 TIMEOUT (no respondió a tiempo) |
-| Azteca Deportes Network SD | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Documentales y Cultura</strong> (12 caídos)</summary>
+<summary><strong>Documentales y Cultura</strong> (16 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -252,13 +253,17 @@
 | History Channel SD [Opc.3] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | H2 HD [Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | A&E SD [Opc.4] | 🔴 HTTP 404 |
+| Nat Geo SD [Opc.3] | 🔴 HTTP 404 |
 | Discovery Turbo SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Discovery Theater HD | 🔴 TIMEOUT (no respondió a tiempo) |
 | E! Entertainment HD [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 | A&E HD [Opc.2] | 🔴 HTTP 404 |
 | Discovery World HD [Opc.2] | 🔴 HTTP 404 |
 | TLC HD [Opc.3] | 🔴 HTTP 404 |
-| Animal Planet SD [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
+| E! Entertainment HD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Animal Planet HD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Film & Arts HD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Film & Arts SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| History Channel HD | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
@@ -272,17 +277,14 @@
 </details>
 
 <details>
-<summary><strong>ESPN</strong> (7 caídos)</summary>
+<summary><strong>ESPN</strong> (4 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | ESPN 3 HD (Opc.2) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| ESPN HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| ESPN 2 HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| ESPN 3 HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| ESPN 4 HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| ESPN 5 HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| ESPN 6 HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| ESPN SD (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
+| ESPN 2 (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
+| ESPN 5 SD (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
@@ -296,7 +298,7 @@
 | VitoTVO HD (Guayas) [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 404 |
 | KCHTV HD (Guayas) [Geo-Blocked] | 🟡 *(posible falso positivo)* HTTP 404 |
 | Capricho TV HD [No 24/7] (El Oro) | 🟡 *(posible falso positivo)* HTTP 403 |
-| RTRTV HD (Guayas) | 🔴 HTTP 404 |
+| Telepremier Plus HD (Guayas) [Opc.2] | 🔴 HTTP 404 |
 | VitoTVO HD (Guayas) [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | KCHTV SD (Guayas) [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Zaracay TV HD [No 24/7] (Santo Domingo) | 🔴 TIMEOUT (no respondió a tiempo) |
@@ -305,7 +307,7 @@
 </details>
 
 <details>
-<summary><strong>El Salvador</strong> (15 caídos)</summary>
+<summary><strong>El Salvador</strong> (18 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -317,18 +319,21 @@
 | TVO Canal 23 SD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TVM 25 SD [24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Morazan TV HD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal 10 TVES [No 24/7] | 🔴 HTTP 404 |
+| Canal TRV [No 24/7][Opc.2] | 🔴 HTTP 404 |
 | TVO Canal 23 SD [No 24/7][Opc.2] | 🟡 *(posible falso positivo)* HTTP 403 |
 | Canal 10 TVES [No 24/7]  [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Canal 9 [No 24/7] | 🔴 HTTP 404 |
 | Canal 12 SD [No 24/7][Opc.3] | 🔴 HTTP 404 |
 | Canal 9 [No 24/7][Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Morazan TV HD [No 24/7][Opc.3] | 🔴 HTTP 404 |
+| Canal 12 HD [No 24/7][Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Morazan TV HD [No 24/7][Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>El Salvador - TCS</strong> (9 caídos)</summary>
+<summary><strong>El Salvador - TCS</strong> (10 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -337,59 +342,61 @@
 | Canal 4 TCS HD [Opc.3] | 🔴 HTTP 404 |
 | Canal 4 TCS SD | 🟡 *(posible falso positivo)* HTTP 403 |
 | Canal 6 TCS HD [Opc.3] | 🔴 HTTP 404 |
-| Canal 4 TCS SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal 2 TCS SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | SV+ HD [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Canal 6 TCS SD | 🟡 *(posible falso positivo)* HTTP 403 |
 | SV+ HD [Opc.2] | 🔴 HTTP 404 |
+| Canal 6 TCS SD | 🟡 *(posible falso positivo)* HTTP 403 |
+| Canal 6 TCS SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Entretenimiento / Cine / Series</strong> (41 caídos)</summary>
+<summary><strong>Entretenimiento / Cine / Series</strong> (42 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
+| Los Simpson Latino | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Los Simpson Latino Opc. 2 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | El Chavo TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Chespirito TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Apanines TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | PTV OnLine | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Del Este TV HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| El Mago TV 2 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Chespirito TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| American TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Canal 3 KMK TV (Costa Rica - Los Pinos) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Los Simpson Latino | 🔴 HTTP 502 |
-| Red TVE Ventanas (Ecuador - Los Ríos) | 🔴 HTTP 404 |
 | AN24 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | ON TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | MGA TV (Nicaragua) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Pixel Channel (Nicaragua) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Los Simpson Latino Opc. 2 | 🔴 HTTP 502 |
 | Casa Grande TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Unika TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Vorterix MDQ [No 24/7] | 🔴 HTTP 404 |
-| Telemix | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Norte Informativo TV (Costa Rica - San Carlos) | 🟡 *(posible falso positivo)* HTTP 403 |
+| SumaQ | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| InterConnect | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Quielpue OnLine | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Telemix | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TAK TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Max Channel [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Power Vision TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Multicanal TV [No 24/7] (Protelco y Telecable) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Buenos Aires TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Ciudades del Ocio TV (España) | 🔴 HTTP 404 |
-| Latinos TV (España) | 🔴 HTTP 404 |
-| Apanines TV | 🔴 HTTP 502 |
+| Vorterix MDQ [No 24/7] | 🔴 HTTP 404 |
 | Alternativa TV [No 24/7](Colombia - Huasco - Atacama) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| ContacTV [no 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Limón TV (Limón) | 🔴 HTTP 404 |
 | Canal 9 Litoral (Entre Ríos / Argentina) | 🔴 HTTP 404 |
-| TV Cisne [No 24/7](Ecuador - Loja) | 🔴 HTTP 404 |
+| Latinos TV (España) | 🔴 HTTP 404 |
 | WTV Canal 20 (Nicaragua) | 🔴 HTTP 404 |
-| El Mago TV 2 | 🔴 HTTP 502 |
+| TV Cisne [No 24/7](Ecuador - Loja) | 🔴 HTTP 404 |
+| CEACOM TV (Not 24/7) (Yacuiba - Tarija) | 🔴 HTTP 404 |
 | Canal 13 MAX [No 24/7] (Argentina) | 🔴 HTTP 404 |
+| Planeta Radio TV [No 24/7](Ecuador - Guayas) | 🔴 HTTP 404 |
 | Thema Vive Kanal Drama[Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
-| American TV | 🔴 HTTP 502 |
-| UCL (Uruguay) | 🔴 HTTP 404 |
-| SumaQ | 🔴 HTTP 502 |
 | Plus TV [No 24/7] (Perú - Santo Domingo) | 🔴 TIMEOUT (no respondió a tiempo) |
-| InterConnect | 🔴 HTTP 502 |
-| Max Channel [No 24/7] | 🔴 HTTP 502 |
-| Power Vision TV [No 24/7] | 🔴 HTTP 502 |
+| UCL (Uruguay) | 🔴 HTTP 404 |
 | Thema Vive Kanal Drama[Opc.3] | 🔴 HTTP 404 |
-| Multicanal TV [No 24/7] (Protelco y Telecable) | 🔴 HTTP 502 |
-| Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2] | 🔴 HTTP 502 |
-| Xtra TV [No 24/7](Rep. Dominicana) | 🔴 TIMEOUT (no respondió a tiempo) |
-| ContacTV [no 24/7] | 🔴 HTTP 502 |
 
 </details>
 
@@ -401,52 +408,53 @@
 | Telemundo USA [Opc.4] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | DHE HD (Opc.3) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Telemundo USA [Opc.2] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Azteca UNO SD  [Opc.2] | 🔴 HTTP 404 |
 | Unicable HD [Opc.2] | 🟡 *(posible falso positivo)* HTTP 403 |
 | AXN SD (Opc.2) | 🔴 HTTP 404 |
 | RCN Novelas SD [Opc.3] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Lifetime | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Europa Europa HD | 🟡 *(posible falso positivo)* HTTP 403 |
 | Azteca UNO SD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Europa Europa HD | 🟡 *(posible falso positivo)* HTTP 403 |
 | Caracol Internacional SD  [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | MTV(Opc.2) | 🔴 HTTP 404 |
 | MTV | 🔴 HTTP 404 |
 | Euro Channel SD [Opc.1] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Pasiones HD[Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Univision HD [Opc.2] | 🔴 HTTP 404 |
 | Telemundo (Internacional) HD  [Opc.1] | 🔴 HTTP 404 |
 | Distrito Comedia HD (Opc.2) | 🔴 HTTP 404 |
 | TNT Series HD | 🔴 HTTP 404 |
 | Lifetime [Opc.2] | 🔴 HTTP 404 |
-| Azteca Internacional HD [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Caracol Internacional SD  [Opc.1] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Unicable HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| Canal Claro HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| RCN Novelas SD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Azcorazon HD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| RCN Novelas SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Europa Europa HD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>España</strong> (13 caídos)</summary>
+<summary><strong>España</strong> (14 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
-| Canal Coín TV Málaga (Coín - Málaga) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Canal Sur Andalucía | 🟡 *(posible falso positivo)* HTTP 403 |
 | ¡HOLA! Play (Nacional) | 🔴 HTTP 404 |
+| Canal 7 TeleValencia (Valencia) | 🟡 *(posible falso positivo)* HTTP 401 |
+| Teleonuba Huelva (Huelva) | 🔴 HTTP 404 |
 | STZ Telebista (Santurtzi - Vizcaya) | 🔴 HTTP 404 |
 | TeleToledo | 🔴 HTTP 400 |
-| 33TV (C. Valenciana) | 🔴 HTTP 404 |
 | Canal 33 Madrid | 🔴 HTTP 404 |
+| 33TV (C. Valenciana) | 🔴 HTTP 404 |
+| ETB Eventos 2 [Geo-Blocked] (País Vasco) | 🟡 *(posible falso positivo)* HTTP 451 |
 | Popular TV Melilla [No 24/7](Melilla) | 🔴 HTTP 404 |
 | +tdp | 🔴 HTTP 404 |
-| ETB Eventos 2 [Geo-Blocked] (País Vasco) | 🟡 *(posible falso positivo)* HTTP 451 |
+| Onda Cádiz | 🔴 TIMEOUT (no respondió a tiempo) |
 | San Fermín (RTVE)[Geo-blocked] | 🟡 *(posible falso positivo)* HTTP 404 |
 | En Play (RTVE)[Geo-blocked] | 🟡 *(posible falso positivo)* HTTP 404 |
-| Onda Cádiz | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>FOX Sports</strong> (8 caídos)</summary>
+<summary><strong>FOX Sports</strong> (4 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -454,15 +462,11 @@
 | FOX Sports [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | FOX Sports 2 (USA)[Opc.2] | 🔴 HTTP 404 |
 | FOX Sports 3 (USA) | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX + PREMIER LIGA | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX Sport Premiumm | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX Sports | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX Sports 2 (USA)[Opc.1] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Guatemala</strong> (13 caídos)</summary>
+<summary><strong>Guatemala</strong> (17 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -471,19 +475,23 @@
 | TV Azteca Guate SD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TeveGlobo Xela HD [No 24/7] (Quetzaltenango) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | SilTV HD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Teleflix HD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | World TV [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Multivisión Canal 3 [No 24/7] | 🔴 HTTP 404 |
-| Canal 4 Ixíl HD [No 24/](Quiche) | 🔴 HTTP 404 |
+| Teleflix HD [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Imagen TV HD (Totonicapan) | 🔴 HTTP 404 |
+| TV5 HD [No 24/7] (Solola) | 🔴 HTTP 404 |
 | Telecable Salcaja | 🟡 *(posible falso positivo)* HTTP 403 |
 | GTV HD [No 24/7] (Guatemala) | 🔴 TIMEOUT (no respondió a tiempo) |
-| Canal 13 SD  (Nacional) [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Guatevisión SD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal 3 El Super Canal SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal 7 Televisiete SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal 11 SD  (Nacional) | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal 13 SD  (Nacional) | 🔴 TIMEOUT (no respondió a tiempo) |
+| A+ Guate HD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Canal Antigua SD | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Honduras</strong> (13 caídos)</summary>
+<summary><strong>Honduras</strong> (17 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -492,40 +500,43 @@
 | Litoral Atlántico HD [No 24/7] (La Ceiba) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Television creativa | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Television Comayagua Canal 40 | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal 5 El Líder HD (Nacional) | 🔴 HTTP 400 |
 | Deportes TVC HD [Opc.3] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Omega TV [No 24/7] (Nacional) | 🔴 HTTP 404 |
 | Telerayo HD (Comayagua) | 🔴 HTTP 404 |
 | Sula TV HD (San Pedro Sula) | 🔴 HTTP 404 |
-| Telecadena 7/4 HD | 🔴 TIMEOUT (no respondió a tiempo) |
+| TV Centro HD [No 24/7](Nacional) | 🔴 HTTP 404 |
+| TSi HD(Nacional) | 🔴 HTTP 400 |
 | HCH HD (Nacional) | 🔴 TIMEOUT (no respondió a tiempo) |
+| Telecadena 7/4 HD | 🔴 TIMEOUT (no respondió a tiempo) |
 | Canal 5 El Líder HD (Nacional)[Opc.2] | 🔴 HTTP 404 |
 | Telecadena 7/4 SD [Opc.2] | 🔴 HTTP 404 |
-| Deportes TVC SD | 🔴 TIMEOUT (no respondió a tiempo) |
+| Deportes TVC SD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Infantiles</strong> (18 caídos)</summary>
+<summary><strong>Infantiles</strong> (17 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | Pequeradio TV (ES) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Canal LMS | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | RetroMagico | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Magic Kids [No 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Canal LMS | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | RetroMagico [Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Moni TV HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | MAXC KIDS TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Laika Channel (ES) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Cartoonito HD (Opc.3) | 🟡 *(posible falso positivo)* HTTP 403 |
+| Laika Channel (ES) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Disney Jr . Latin America South [opc.2] | 🟡 *(posible falso positivo)* HTTP 403 |
 | Tooncast (Opc.4) | 🔴 HTTP 404 |
 | FMH Kids | 🔴 HTTP 404 |
 | Dreamswork HD (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
-| Moni TV HD | 🔴 HTTP 502 |
 | Cartoonito SD (Opc.2) | 🔴 HTTP 404 |
 | Discovery Kids HD | 🔴 HTTP 404 |
 | Nickelodeon HD (Opc.3) | 🔴 HTTP 404 |
 | Nick JR SD (Opc.1) | 🔴 HTTP 404 |
-| Semillitas TV | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
@@ -534,17 +545,17 @@
 
 | Canal | Motivo |
 |---|---|
-| Telemundo al Día (USA / Nacional) | 🔴 HTTP 504 |
 | RPP TV (Perú - Nacional) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | N+ Foro (Televisa) (Nacional) | 🟡 *(posible falso positivo)* HTTP 403 |
+| Telemundo al Día (USA / Nacional) | 🔴 HTTP 504 |
 | Canal 22 (Argentina - Nacional) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Venevision Noticias (Venezuela) | 🔴 HTTP 410 |
 | San Luis + (San Luis) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | N+ Monterrey (Nuevo León) | 🟡 *(posible falso positivo)* HTTP 403 |
-| TVPE Noticias (Perú) | 🟡 *(posible falso positivo)* HTTP 403 (con SSL inválido) |
+| Venevision Noticias (Venezuela) | 🔴 HTTP 410 |
 | N+ Guadalajara (Jalisco) | 🟡 *(posible falso positivo)* HTTP 403 |
-| RTU [No 24/7] (Quito - Ecuador) | 🟡 *(posible falso positivo)* HTTP 403 |
+| TVPE Noticias (Perú) | 🟡 *(posible falso positivo)* HTTP 403 (con SSL inválido) |
 | Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha) | 🟡 *(posible falso positivo)* HTTP 403 |
+| RTU [No 24/7] (Quito - Ecuador) | 🟡 *(posible falso positivo)* HTTP 403 |
 
 </details>
 
@@ -558,7 +569,7 @@
 </details>
 
 <details>
-<summary><strong>México</strong> (8 caídos)</summary>
+<summary><strong>México</strong> (14 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -566,61 +577,72 @@
 | Canal 5 HD (Nacional)[Opc. 3] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | TV Guanajuato HD (Guanajuato) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Las Estrellas HD (Nacional)[v1] | 🟡 *(posible falso positivo)* HTTP 403 |
+| Azteca 7 HD  (México)[Opc. 1] | 🔴 HTTP 404 |
+| Canal 5 HD (Nacional)[Opc. 1] | 🔴 HTTP 404 |
 | Multimedios Canal 6 HD (CDMX) | 🟡 *(posible falso positivo)* HTTP 403 |
+| XHFGL ON TV Canal 15 HD [No 24/7](Durango) | 🔴 HTTP 404 |
 | SQCS Canal 4 SD (Quintana Roo) | 🔴 HTTP 404 |
-| Nayarit Comunica HD (Nayarit) | 🔴 HTTP 404 |
+| Canal 5 SD (Nacional)[Opc. 4] | 🔴 HTTP 404 |
+| Canal 5 SD (Nacional)[Opc.5] | 🔴 HTTP 404 |
 | Super Canal 12 HD (Tamaulipas) | 🔴 TIMEOUT (no respondió a tiempo) |
+| Azteca 7 HD  (México)[Opc. 2] | 🔴 HTTP 404 |
+| Azteca 7 SD  (México)[Opc. 3] | 🔴 HTTP 404 |
 
 </details>
 
 <details>
-<summary><strong>Música</strong> (12 caídos)</summary>
+<summary><strong>Música</strong> (13 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
-| Salsa Gorda Television (Perú) [Not 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Box Playlist (Internacional) | 🔴 HTTP 504 |
+| Salsa Gorda Television (Perú) [Not 24/7] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Teleritmo (México) | 🟡 *(posible falso positivo)* HTTP 403 |
-| Gex TV [No 24/7](Costa Rica) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Hits Mexicanos (México) | 🔴 HTTP 400 |
 | RewindTV | 🔴 HTTP 404 |
+| Gex TV [No 24/7](Costa Rica) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | La Perla Radio TV (Ecuador) [Not 24/7] | 🔴 HTTP 404 |
 | La Hermandad Salsera (Argentina) [Not 24/7] | 🔴 HTTP 404 |
-| Hits Mexicanos (México) | 🔴 HTTP 400 |
 | Latinos TV [No 24/7] | 🔴 HTTP 404 |
 | AE Radio TV (Chile) | 🔴 HTTP 404 |
+| MasMusica FM [No 24/7](Colombia) | 🔴 HTTP 404 |
 | Planeta TV [No 24/7](Chile) | 🔴 HTTP 404 |
-| Paréntesis TV (Chile) | 🔴 TIMEOUT (no respondió a tiempo) |
+| EXATV SD | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Paraguay</strong> (6 caídos)</summary>
+<summary><strong>Paraguay</strong> (8 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | SNT Paraguay HD | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | C9N HD [Geo-blocked] | 🟡 *(posible falso positivo)* ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Red Informativa | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | RIO TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Red Informativa | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| AGR FM TV | 🔴 HTTP 404 |
 | GEN Paraguay HD][Opc.2] | 🔴 HTTP 404 (con SSL inválido) |
 | En Lengua de Senas TV HD [No 24/7] | 🔴 HTTP 404 |
+| Oasis TV HD [No 24/7] | 🔴 HTTP 404 |
 
 </details>
 
 <details>
-<summary><strong>Perú</strong> (9 caídos)</summary>
+<summary><strong>Perú</strong> (11 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | Mega TV HD (Arequipa) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | USMPTV HD (Lima / Nacional) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Once TV Digital [Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Onda Digital 3 HD [No 24/7](Lima / Nacional) | 🔴 HTTP 404 |
-| A1 TV HD [No 24/7][Opc.2] | 🔴 HTTP 404 |
-| Televisión Tarapoto HD [No 24/7] (San Martín) | 🟡 *(posible falso positivo)* HTTP 403 |
 | Once TV Digital | 🔴 HTTP 404 |
+| A1 TV HD [No 24/7][Opc.2] | 🔴 HTTP 404 |
+| Onda Digital 3 HD [No 24/7](Lima / Nacional) | 🔴 HTTP 404 |
 | Willax TV SD(Nacional)[Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
+| Televisión Tarapoto HD [No 24/7] (San Martín) | 🟡 *(posible falso positivo)* HTTP 403 |
+| Nativa TV HD (Santiago) [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
 | Visión Sur TV HD [No 24/7] (Arequipa) | 🟡 *(posible falso positivo)* HTTP 403 |
+| Nativa TV HD (Santiago) | 🔴 HTTP 404 |
 
 </details>
 
@@ -630,19 +652,20 @@
 | Canal | Motivo |
 |---|---|
 | Pelis Top | 🔴 HTTP 404 |
-| Comedia | 🔴 HTTP 404 |
 | Acción | 🔴 HTTP 404 |
+| Comedia | 🔴 HTTP 404 |
 
 </details>
 
 <details>
-<summary><strong>Religiosos</strong> (8 caídos)</summary>
+<summary><strong>Religiosos</strong> (9 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | Vive Musica HD (EN) | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Vida al Maximo TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | CBN Español (Internacional) | 🟡 *(posible falso positivo)* HTTP 403 |
-| Vida al Maximo TV | 🔴 HTTP 502 |
+| Canal 4 San Juan (Argentina) | 🔴 HTTP 404 |
 | Canal 13 Jujuy (Argentina) | 🟡 *(posible falso positivo)* HTTP 403 |
 | Escúchame Radio TV [No 24/7](Nicaragua) | 🔴 HTTP 404 |
 | TV Solidaria Remar (Argentina) | 🔴 TIMEOUT (no respondió a tiempo) |
@@ -652,17 +675,16 @@
 </details>
 
 <details>
-<summary><strong>República Dominicana</strong> (7 caídos)</summary>
+<summary><strong>República Dominicana</strong> (6 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
 | Antena 7 SD [Geo-Blocked] | 🟡 *(posible falso positivo)* ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
+| Telesistema 11 SD [Opc.2] | 🔴 HTTP 404 |
 | Telemedios 8 SD | 🔴 HTTP 404 |
 | Color Vision 9 HD | 🔴 HTTP 404 |
 | Canal 14 Telenord HD [No 24/7] | 🔴 HTTP 404 |
-| Telesistema 11 SD [Opc.2] | 🔴 HTTP 404 |
 | RTVD 4 HD [Opc.2] | 🔴 TIMEOUT (no respondió a tiempo) |
-| Telecanal 28 HD | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
@@ -674,20 +696,33 @@
 | Sky Sports LaLiga [Opc.5] | 🟡 *(posible falso positivo)* HTTP 403 |
 | Sky Sports LaLiga [Opc.4] | 🟡 *(posible falso positivo)* HTTP 403 |
 | Sky Sports F1 | 🔴 HTTP 404 |
-| Sky Sports LaLiga | 🔴 TIMEOUT (no respondió a tiempo) |
+| Sky Sports LaLiga [Opc.3] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>TV Chichicasteca</strong> (5 caídos)</summary>
+<summary><strong>Sony Channels</strong> (1 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
-| CANAL 56 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
-| CANAL 80 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| Sony HD (Opc.2) | 🔴 TIMEOUT (no respondió a tiempo) |
+
+</details>
+
+<details>
+<summary><strong>TV Chichicasteca</strong> (9 caídos)</summary>
+
+| Canal | Motivo |
+|---|---|
+| CANAL 2 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| CANAL 86 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
 | CANAL 32 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
 | CANAL 36 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| CANAL 56 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| CANAL 8 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
 | CANAL 75 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| CANAL 80 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
+| CANAL 12 (TELEVISION CHICHICASTECA) | 🔴 HTTP 404 |
 
 </details>
 
@@ -701,7 +736,7 @@
 </details>
 
 <details>
-<summary><strong>Tigo Sports / Fox</strong> (10 caídos)</summary>
+<summary><strong>Tigo Sports / Fox</strong> (8 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
@@ -712,22 +747,22 @@
 | FOX [Opc.5] | 🔴 TIMEOUT (no respondió a tiempo) |
 | FOX CR [Inestable] | 🔴 TIMEOUT (no respondió a tiempo) |
 | FOX NIC [Inestable] | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX ESA HD | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX  GUA | 🔴 TIMEOUT (no respondió a tiempo) |
-| FOX NIC | 🔴 TIMEOUT (no respondió a tiempo) |
+| FOX [Opc.10] | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
 
 <details>
-<summary><strong>Venezuela</strong> (6 caídos)</summary>
+<summary><strong>Venezuela</strong> (8 caídos)</summary>
 
 | Canal | Motivo |
 |---|---|
+| Canal Grande Television [No 24/7][Opc.2] | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
 | Aguacate TV | 🔴 ERROR DE CONEXIÓN (servidor caído / DNS / rechazado) |
-| Canal Grande Television [No 24/7][Opc.2] | 🔴 HTTP 502 |
 | Audas TV | 🔴 HTTP 404 |
-| Canal Once Del Zulia | 🔴 HTTP 404 |
+| Anzoategui TV | 🔴 HTTP 404 |
+| Canal Grande Television [No 24/7] | 🔴 HTTP 404 |
 | TeleVen TV | 🟡 *(posible falso positivo)* HTTP 403 |
+| Canal Once Del Zulia | 🔴 HTTP 404 |
 | TV Oasis | 🔴 TIMEOUT (no respondió a tiempo) |
 
 </details>
