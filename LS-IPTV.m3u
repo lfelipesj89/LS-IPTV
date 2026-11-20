@@ -422,8 +422,11 @@ http://157.100.9.51:8000/play/a1tb
 http://181.79.87.130:8000/play/a0d1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",ARG | ESPN ARG HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",ARG | ESPN ARG HD [Opc.1]
 http://optical-astra.spiptv.vip/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN LATAM",ARG | ESPN ARG SD [Opc.2]
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN LATAM",ARG | ESPN2 ARG HD
 http://optical-astra.spiptv.vip/play/a076/index.m3u8
@@ -697,8 +700,14 @@ http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526379
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Los-simpson.logoespa%C3%B1ol.png" group-title="24/7 Series",ES | Los Simpsons 29-34
 http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526380
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/1280px-Family_Guy_Logo.svg.png" group-title="24/7 Series",ES | Family Guy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Los-simpson.logoespa%C3%B1ol.png" group-title="24/7 Series",ES | Los Simpsons
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/1280px-Family_Guy_Logo.svg.png" group-title="24/7 Series",ES | Family Guy [Opc.1]
 http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526397
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/1280px-Family_Guy_Logo.svg.png" group-title="24/7 Series",ES | Family Guy [Opc.2]
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/747.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/American_dad_logo.svg" group-title="24/7 Series",ES | American Dad 1-6
 http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526560
@@ -714,3 +723,6 @@ http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526526
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/futurama-logo-png_seeklogo-321519.png" group-title="24/7 Series",ES | Futurama 7-11
 http://superxlatino.com:8880/Maria98/aq48ynRj5vGv/526527
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/futurama-logo-png_seeklogo-321519.png" group-title="24/7 Series",ES | Futurama 7-11
+http://tv.m3uts.xyz/stream/secure/2PRvFeQs/473.m3u8
